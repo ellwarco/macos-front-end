@@ -12,11 +12,10 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 
 ## Dev
 
-- __[Atom 🌟](https://atom.io/)__ – The hackable text editor for the 21st Century. It's slow but the comminity is awesome.
+- __[Atom](https://atom.io/)__ – The hackable text editor for the 21st Century. It's slow but the community is awesome.
 - __[Cakebrew](https://github.com/brunophilipe/Cakebrew)__ – Manage your Homebrew formulas with style.
 - __[Dash 🌟💰](https://kapeli.com/dash)__ – An API Documentation Browser and Code Snippet Manager.
 - __[GitBook](https://www.gitbook.com/)__ – Create, write and organize documentation and books with your team.
-- __[GitX-dev](https://rowanj.github.io/gitx/)__ – Because sometimes you need a GUI to deal with git.
 - __[Hyper™](https://hyper.is/)__ – A terminal built on web technologies. Like Atom you can customise almost everything.
 - __[Homebrew](https://brew.sh/)__ – The missing package manager for macOS (in Ruby).
 - __[Insomnia](https://insomnia.rest/)__ – A beautifull REST client. Debug APIs like a human, not a robot.
@@ -26,7 +25,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[Postico](https://eggerapps.at/postico/)__ – A modern PostgreSQL client.
 - __[Sequel Pro](https://www.sequelpro.com/)__ – Database management application for working with MySQL databases.
 - __[Sublime Text 🌟](https://www.sublimetext.com/)__ – A sophisticated text editor for code, markup and prose.
-- __[Visual Studio Code](https://code.visualstudio.com/Download)__ - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.
+- __[Visual Studio Code 🌟](https://code.visualstudio.com/Download)__ - Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.
 
 ## Design
 
@@ -36,10 +35,8 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[ImageOptim](https://imageoptim.com/)__ – Excellent tool for publishing images on the web.
 - __[JPEGmini 🛍💰](https://itunes.apple.com/fr/app/jpegmini/id498944723?l=en&mt=12)__ – Reduce photo files size by up to 80% without compromising quality.
 - __[MindNode 🛍💰](https://itunes.apple.com/fr/app/mindnode-2-delightful-mind-mapping/id992076693?l=en&mt=12)__ – Delightful Mind Mapping for Mac, iPad & iPhone.
-- __[Photoshop 💰](http://www.photoshop.com/)__ – Raster graphics editor since 1988.
+- __[Pixelmator 🛍💰](https://itunes.apple.com/fr/app/pixelmator/id407963104?l=en&mt=12)__ – Professional image editing tools that anyone can use..
 - __[Sip 🌟 💰](https://sipapp.io/)__ – The best color picker for Mac for collecting, organizing & sharing palettes.
-- __[Sketch 💰](https://www.sketchapp.com/get/)__ – Professional digital design for Mac.
-- __[Sketchpacks](https://www.sketchpacks.com/)__ – Browse, manage, and auto-update your Sketch plugins from the menu bar.
 
 ## Web
 
@@ -75,7 +72,7 @@ Here is the list of all the apps I use to be efficient as a __front-end develope
 - __[AppCleaner](https://freemacsoft.net/appcleaner/)__ – AppCleaner finds unnecessarily files and safely deletes them.
 - __[CleanMyMac 💰](https://cleanmymac.com/)__ – The world's best Mac cleaner.
 - __[Dropbox](https://www.dropbox.com/downloading)__ – Keeps your files and your team in sync.
-- __[Flux](https://justgetflux.com/)__ – Warms up your computer display at night, to match your indoor lighting.
+- __[f.lux](https://justgetflux.com/)__ – Warms up your computer display at night, to match your indoor lighting.
 - __[Grammarly](https://grammarly.com)__ – Free grammar checker instantly eliminates grammatical errors and enhances your writing.
 - __[Keybase](https://keybase.io/)__ – Public key crypto for everyone, publicly auditable proofs of identity.
 - __[Product Hunt](https://github.com/producthunt/producthunt-osx/)__ – Discover your next favorite thing, surfacing the latest in tech, books, games, and podcasts.
